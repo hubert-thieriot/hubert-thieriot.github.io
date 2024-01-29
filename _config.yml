@@ -123,12 +123,12 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Recent work # blog_name will be displayed in your blog page
-blog_description: #Listing recent work
+blog_description: Description #Listing recent work
 permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: false
+  enabled: true
 
 related_blog_posts:
   enabled: true
